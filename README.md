@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1200&lines=Hi+there!+Welcome+to+my+Github+profile.;I+am+Marcos+André.+and+I'm+a+passionate+Android+developer.;How+about+we+talk+about+opportunities?;Let's+go+:%29)](https://git.io/typing-svg)&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFEC00&size=35&center=true&vCenter=true&width=1200&lines=Hi+there!+Welcome+to+my+Github+profile.;I+am+Marcos+André.+and+I'm+a+passionate+Android+developer.;How+about+we+talk+about+opportunities?;Let's+go+:%29)](https://git.io/typing-svg)&nbsp;
 
 <div align="center">
   <h2>Olá, Sou Marcos André Fonseca Dos Santos 👋</h2>
@@ -10,8 +10,8 @@
 <br>
 <div align="center">
   <a href="https://github.com/wrksystem">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=marcosandre28&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosandre28&layout=compact&langs_count=15&theme=radical"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=marcosandre28&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosandre28&layout=compact&langs_count=15&theme=highcontrast"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
