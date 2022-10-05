@@ -9,8 +9,8 @@
 <br>
 <div align="center">
   <a href="https://github.com/wrksystem">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=marcosandre28&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosandre28&layout=compact&langs_count=15&theme=highcontrast"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=marcosandre28&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/> <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosandre28&layout=compact&langs_count=15&theme=highcontrast"/>
+  
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
