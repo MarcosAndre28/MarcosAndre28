@@ -9,8 +9,8 @@
 <br>
 
   <table><tr>
-    <td valign="top"><img class="img" src="https://github-readme-stats.vercel.app/api?username=marcosandre28&show_icons=true&theme=highcontrast" /></td>
-    <td valign="top"><img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosandre28&theme=highcontrast&layout=compact" /></td>
+    <td valign="top"><img height="200em" src="https://github-readme-stats.vercel.app/api?username=marcosandre28&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/></td>
+    <td valign="top"><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosandre28&layout=compact&langs_count=15&theme=highcontrast"/></td>
   </tr>
 </table>
 
