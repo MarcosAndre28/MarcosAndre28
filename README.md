@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFEC00&size=35&center=true&vCenter=true&width=1200&lines=Hi+there!+Welcome+to+my+Github+profile.;I+am+Marcos+André.+and+I'm+a+passionate+Android+developer.;How+about+we+talk+about+opportunities?;Let's+go+:%29)](https://git.io/typing-svg)&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1200&lines=Hi+there!+Welcome+to+my+Github+profile.;I+am+Marcos+André.+and+I'm+a+passionate+Android+developer.;How+about+we+talk+about+opportunities?;Let's+go+:%29)](https://git.io/typing-svg)&nbsp;
 
 <div align="center">
   <h2>Olá, Sou Marcos André Fonseca Dos Santos 👋</h2>
@@ -8,11 +8,11 @@
 </div>
 <br>
 
-  <table><tr>
-    <td valign="top"><img height="200em" src="https://github-readme-stats.vercel.app/api?username=marcosandre28&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/></td>
-    <td valign="top"><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosandre28&layout=compact&langs_count=15&theme=highcontrast"/></td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/MarcosAndre28">
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosAndre28&theme=tokyonight"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarcosAndre28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAndre28&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/><img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosAndre28&theme=tokyonight&hide_border=true"/>
+    
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
