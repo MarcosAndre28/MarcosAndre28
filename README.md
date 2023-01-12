@@ -13,6 +13,7 @@
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosAndre28&theme=tokyonight"/> 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarcosAndre28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAndre28&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/><img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosAndre28&theme=tokyonight&hide_border=true"/>
     
+ [![trophy](https://github-profile-trophy.vercel.app/?username=MarcosAndre28&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
