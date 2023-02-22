@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://github.com/MarcosAndre28">
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosAndre28&theme=tokyonight"/> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarcosAndre28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAndre28&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/><img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosAndre28&theme=tokyonight&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarcosAndre28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAndre28&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/><img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosAndre28&theme=tokyonight&hide_border=true"/>
     
  [![trophy](https://github-profile-trophy.vercel.app/?username=MarcosAndre28&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
