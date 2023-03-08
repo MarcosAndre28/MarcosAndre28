@@ -12,7 +12,7 @@
   <h3><a href="https://github.com/MarcosAndre28">Profile visitors</a></h3>
   <img src="https://profile-counter.glitch.me/{MarcosAndre28}/count.svg" alt="MarcosAndre28 :: Visitor's Count" />
   <br />
-  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/rudiantoni?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/MarcosAndre28?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 </div>
 
 <div align="center">
